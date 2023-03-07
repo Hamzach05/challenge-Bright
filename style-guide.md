@@ -31,3 +31,9 @@ Very dark blue: hsl(240, 100%, 5%)
 
 - Family: [Inter](https://fonts.google.com/specimen/Inter)
 - Weights: 400, 700, 800
+
+
+
+  <style>
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
